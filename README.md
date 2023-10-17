@@ -45,17 +45,17 @@ A continuación, se muestran algunas visualizaciones interesantes:
 
 ### Distribución de Anomalías de Temperatura Global
 <p align="center">
-  <img src="/Volumes/KINGSTON/Data Science Project/Images/dist_anom.png" alt="Texto alternativo">
+  <img src="Images/dist_anom.png">
 </p>
 
 ### Matríz de Correlación entre Variables
 <p align="center">
-  <img src="/Volumes/KINGSTON/Data Science Project/Images/matriz.png" alt="Texto alternativo">
+  <img src="/Images/matriz.png">
 </p>
 
 ### Promedio de Anomalías de Temperatura Global por Año
 <p align="center">
-  <img src="/Volumes/KINGSTON/Data Science Project/Images/prom_anom.png">
+  <img src="Images/prom_anom.png">
 </p>
 
 **[Código de EDA (eda.ipynb)](EDA.ipynb)**
@@ -70,12 +70,12 @@ En este proyecto, se desarrolló un modelo de machine learning para predecir las
 Además que se probó un modelo de Regresión Lineal, porque se pretendía solamente usar la columna de temperaturas gloables, sin tomar en cuenta nada más, pero las predicciones no eran muy buenas.
 
 <p align="center">
-  <img src="/Volumes/KINGSTON/Data Science Project/Images/regresion.png">
+  <img src="Images/regresion.png">
 </p>
 
 Con las siguientes calificaciones:
 <p align="center">
-  <img src="/Volumes/KINGSTON/Data Science Project/Images/regresion_calif.png">
+  <img src="Images/regresion_calif.png">
 </p>
 Entonces se concluyó que el modelo no es el adecuado.<br><br>
 
@@ -111,10 +111,10 @@ Entonces se concluyó que el modelo no es el adecuado.<br><br>
       Aquí es donde tenemos el problema, no debería tenr este valor, no tiene buen ajuste a los datos, por lo que se debe mejorar.
 
 <p align="center">
-  <img src="/Volumes/KINGSTON/Data Science Project/Images/modelo.png">
+  <img src="Images/modelo.png">
 </p>
 <p align="center">
-  <img src="/Volumes/KINGSTON/Data Science Project/Images/res_metricas.png">
+  <img src="Images/res_metricas.png">
 </p>
 
 Estos resultados indican que el modelo SARIMAX ha logrado un buen ajuste en términos de MSE, RMSE y MAE, lo que sugiere una capacidad adecuada para predecir las anomalías de temperatura de ENSO.
@@ -130,13 +130,13 @@ Podemos ver como es que se comportan los datos predichos en comparación a los r
 #
 ### Predicciones del Modelo
 <p align="center">
-  <img src="/Volumes/KINGSTON/Data Science Project/Images/predicciones.png">
+  <img src="Images/predicciones.png">
 </p>
 <p align="center">
-  <img src="/Volumes/KINGSTON/Data Science Project/Images/vista_pred.png">
+  <img src="Images/vista_pred.png">
 </p>
 <p align="center">
-  <img src="/Volumes/KINGSTON/Data Science Project/Images/anual_predict.png">
+  <img src="Images/anual_predict.png">
 </p>
 
 #
