@@ -58,7 +58,7 @@ A continuación, se muestran algunas visualizaciones interesantes:
   <img src="Images/prom_anom.png">
 </p>
 
-Para ver más detalle de los comentarios y conclusiones de cada una de las gráficas y ver todas, vayan al código.
+Para ver con detalle todas las gráficas y los comentarios con conclusiones de cada una, vayan al código.
 **[Código de EDA (eda.ipynb)](EDA.ipynb)**
 #
 ## Modelo de Aprendizaje Supervisado para Predicción de Anomalías de ENSO
@@ -126,7 +126,7 @@ El modelo SARIMAX que se usó en el proyecto, es capaz de predecir con buena pre
 
 Podemos ver como es que se comportan los datos predichos en comparación a los reales.
 
-
+Para ver con más detalle el código inicial y el código final, vayan a ver el código del modelo completo.
 **[Enlace al Modelo de ML](modelo.ipynb)**
 #
 ### Predicciones del Modelo
