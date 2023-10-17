@@ -31,7 +31,7 @@ Para este proyecto, se ha utilizado un conjunto de datos relacionado con el ENSO
 Este se obtuvo del siguiente enlace de [Kaggle](https://www.kaggle.com/datasets/shabanamir/enso-data), el cual contiene datos interesantes, como se muestra a continuación:
 
 <p align="center">
-  <img src="/Volumes/KINGSTON/Data Science Project/Images/datos.png" alt="Texto alternativo">
+  <img src="Images/datos.png">
 </p>
 
 Si bien, la página recomendada contenía buenos elementos, al final se decidió utilizar este dataset por las métricas con las que contaba.
