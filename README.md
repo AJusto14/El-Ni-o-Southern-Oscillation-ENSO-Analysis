@@ -58,6 +58,7 @@ A continuación, se muestran algunas visualizaciones interesantes:
   <img src="Images/prom_anom.png">
 </p>
 
+Para ver más detalle de los comentarios y conclusiones de cada una de las gráficas y ver todas, vayan al código.
 **[Código de EDA (eda.ipynb)](EDA.ipynb)**
 #
 ## Modelo de Aprendizaje Supervisado para Predicción de Anomalías de ENSO
