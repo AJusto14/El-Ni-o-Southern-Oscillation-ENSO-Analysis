@@ -126,7 +126,7 @@ El modelo SARIMAX que se usó en el proyecto, es capaz de predecir con buena pre
 Podemos ver como es que se comportan los datos predichos en comparación a los reales.
 
 
-**[Código del Modelo de Aprendizaje Automático (modelo_ml.ipynb)](enlace_a_tu_código_modelo_ml.ipynb)**
+**[Enlace al Modelo de ML](modelo_.ipynb)**
 #
 ### Predicciones del Modelo
 <p align="center">
