@@ -2,7 +2,7 @@
 # = Proyecto de Análisis del Fenómeno ENSO =
 
 <p align="center">
-  <img src="/Volumes/KINGSTON/Data Science Project/Images/enos.png" alt="Texto alternativo">
+  <img src="Images/enos.png">
 </p>
 
 ## Descripción del Proyecto
